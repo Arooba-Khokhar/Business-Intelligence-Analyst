@@ -13,8 +13,6 @@ product and business:
 
 • How do you recommend to grow our revenue? 
 
-Data Exploration
-
 • Technical/Analytical: Your technical skills in working with tools and your analytical 
 skills - Presented to Data & Insight team members
 
