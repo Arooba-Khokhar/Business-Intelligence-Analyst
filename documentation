@@ -1,0 +1,38 @@
+As a (Senior) Business Intelligence Analyst, the task is to perform an exploratory analysis on a dataset of customer orders.
+You are expected to identify insights and patterns from the data and provide recommendations for improving revenue and business performance.
+
+1. Data Understanding:
+
+Begin by loading and exploring the provided datasets: orders.csv, customers.csv, and eurostat_volumes.csv. 
+Familiarize yourself with the data's structure, columns, and relationships.
+
+2. Data Preprocessing:
+
+Clean the data by handling missing values, duplicates, and any inconsistencies.
+Perform data transformations or aggregations if necessary.
+
+3. Exploratory Data Analysis (EDA):
+
+Conduct a comprehensive EDA to uncover insights and patterns within the data.
+Explore statistics, distributions, and relationships between variables.
+Visualize data using charts, graphs, and plots to facilitate understanding.
+
+4. Key Insights:
+
+Summarize major insights you've identified during the EDA phase.
+Focus on dimensions such as customer behavior, revenue, and industry trends.
+Answer questions like:
+What are the revenue trends over time?
+Which transport modes are most commonly used?
+Are there patterns in customer behavior?
+
+5. Business Implications:
+
+Translate your findings into actionable business implications.
+Suggest strategies for revenue growth based on the insights you've gathered.
+Address the question: "How do you recommend to grow our revenue?"
+
+6. Eurostat Data Analysis:
+
+Analyze the eurostat_volumes.csv dataset to identify industry trends, region-wise performance, and transport mode insights.
+Explain how these trends can benefit the company (forto) and provide specific steps that forto can take based on these trends.
